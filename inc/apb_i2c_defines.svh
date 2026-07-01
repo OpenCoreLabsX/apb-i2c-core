@@ -1,0 +1,9 @@
+`ifndef APB_I2C_DEFINES_SVH
+`define APB_I2C_DEFINES_SVH
+
+`define APB_I2C_ADDR_WIDTH 8
+`define APB_I2C_DATA_WIDTH 32
+
+`define APB_I2C_VERSION 32'h0001_0000
+
+`endif
